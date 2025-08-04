@@ -1,0 +1,6 @@
+# Ignora archivos de construcción y temporales
+_build/
+.ipynb_checkpoints/
+*.log
+*.pyc
+__pycache__/
